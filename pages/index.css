@@ -26,7 +26,8 @@
 
 /*____________LEAD______________*/
 @import url(../blocks/lead/__caption/lead__caption.css);
-@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__image/lead__image_graphic.css);
+@import url(../blocks/lead/__image/lead__image_kalegin-michail.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/lead.css);
