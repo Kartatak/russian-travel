@@ -1,6 +1,5 @@
 .lead__caption {
-  width: minmax(100%, 984px);
-  height: 158px;
+  width: 100%;
   text-align: start;
   font-size: 10px;
   line-height: 1.4;

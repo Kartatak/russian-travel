@@ -4,3 +4,8 @@
   align-items: center;
   margin-top: 48px;
 }
+@media screen and (max-width: 1028px) {
+  .lead {
+    margin: 56px 100px 0;
+  }
+}
