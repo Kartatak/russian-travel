@@ -6,12 +6,12 @@
   color: #ffffff;
   margin: 64px 0 40px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
   .intro__title {
     margin: 88px 0 40px;
   }
 }
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .intro__title {
     margin-top: 92px 0 40px;
   }
