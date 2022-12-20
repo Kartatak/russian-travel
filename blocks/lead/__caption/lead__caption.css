@@ -1,0 +1,12 @@
+.lead__caption {
+  width: minmax(100%, 984px);
+  height: 158px;
+  text-align: start;
+  font-size: 10px;
+  line-height: 1.4;
+  font-weight: 400;
+  color: #ffffff;
+  font-style: normal;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
