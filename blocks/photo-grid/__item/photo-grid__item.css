@@ -1,6 +1,5 @@
 .photo-grid__item {
-  width: minmax(1fr, 352px);
-  margin: auto;
+  object-fit: contain;
+  max-width: minmax(100%, 354px);
+  /* max-width: minmax(284px, 1fr); */
 }
-
-// object-fit
