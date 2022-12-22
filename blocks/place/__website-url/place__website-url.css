@@ -5,4 +5,9 @@
   line-height: 100%;
   letter-spacing: 2px;
   color: #aaaaaa;
+  text-decoration: none;
+}
+
+.place__website-url:hover {
+  text-decoration: underline;
 }
