@@ -1,4 +1,5 @@
 .place__website-url {
+  grid-area: place__website-url;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -6,8 +7,15 @@
   letter-spacing: 2px;
   color: #aaaaaa;
   text-decoration: none;
+  margin-bottom: 12px;
 }
 
 .place__website-url:hover {
   text-decoration: underline;
+}
+
+@media screen and (min-wight: 1024px) {
+  .place__website-url {
+    line-height: 170%;
+  }
 }

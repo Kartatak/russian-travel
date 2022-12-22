@@ -1,4 +1,5 @@
 .place__image {
+  grid-area: place__image;
   object-fit: contain;
   width: 110%;
   max-width: 460px;
