@@ -1,10 +1,12 @@
 .place__paragraph {
-  grid-area: place__paragrph;
+  grid-row: 3;
+  grid-column: 2;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 163%;
   color: #ffffff;
+  margin: 0;
 }
 
 @media screen and (min-wight: 1024px) {

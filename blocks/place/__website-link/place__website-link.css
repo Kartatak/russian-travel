@@ -1,5 +1,6 @@
 .place__website-link {
-  grid-area: place__website-link;
+  grid-row: 2;
+  grid-column: 2;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
