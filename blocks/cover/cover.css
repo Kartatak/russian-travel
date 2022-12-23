@@ -4,6 +4,13 @@
 Изображение затемняется при наведении на любую область блока cover , в том числе и на текстовые
 элементы. Наведение реализовано через :hover . */
 .cover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   position: relative;
   margin-top: 66px;
+  align-self: center;
+  width: 100vw;
+  height: calc(100vw / 1.6);
 }

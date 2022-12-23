@@ -1,6 +1,8 @@
 .cover__background {
   position: absolute;
   top: 0;
-  left: -16px;
+  left: 0;
+
   width: 100vw;
+  z-index: 1;
 }
