@@ -1,10 +1,14 @@
 .place__website-link {
-  grid-row: 2;
-  grid-column: 2;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 122%;
   text-decoration-line: underline;
   color: #ffffff;
+  margin: 12px 0 32px;
+}
+@media screen and (min-width: 768px) {
+  .place__website-link {
+    margin: 12px 0 48px;
+  }
 }
