@@ -1,4 +1,6 @@
 .place__image {
+  grid-column: 1;
+  grid-row: 3;
   object-fit: contain;
   width: 100vw;
   max-width: 460px;

@@ -1,8 +1,5 @@
 .place {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
-  align-items: strat;
-  justify-content: space-between;
   margin-top: 50px;
 }
 
