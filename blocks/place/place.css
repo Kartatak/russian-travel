@@ -7,6 +7,7 @@
   .place {
     margin-top: 72px;
     gap: 28px;
+    grid-template-columns: 1fr 1fr;
   }
 }
 @media screen and (min-width: 1024px) {
