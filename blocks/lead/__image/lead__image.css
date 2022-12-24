@@ -2,11 +2,6 @@
   width: 100vw;
   margin-top: 40px;
 }
-@media screen and (min-width: 321px) {
-  .lead__image {
-    width: 100%;
-  }
-}
 
 @media screen and (min-width: 768px) {
   .lead__image {
@@ -17,5 +12,6 @@
 @media screen and (min-width: 1280px) {
   .lead__image {
     margin-top: 64px;
+    width: 100%;
   }
 }
