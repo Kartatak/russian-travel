@@ -10,6 +10,11 @@
   padding-right: 32px;
 }
 
+.place__paragraph > p {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
 .place__paragraph > p:last-child {
   margin-bottom: 0;
 }
