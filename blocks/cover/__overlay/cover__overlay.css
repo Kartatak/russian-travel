@@ -5,7 +5,7 @@
   top: 0;
   left: 0;
   width: 100vw;
-  height: calc(100vw / 1.6);
+  height: calc(min(100vw, 1184px) / 1.6);
   opacity: 0.3;
   z-index: 2;
 }
@@ -16,6 +16,6 @@
 
 @media screen and (min-width: 1280px) {
   .cover__overlay {
-    max-width: 1232px;
+    max-width: 1184px;
   }
 }

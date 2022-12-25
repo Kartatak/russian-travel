@@ -3,6 +3,7 @@
   font-family: "Inter";
   padding: 16px 16px 0 16px;
   max-width: 1280px;
+  box-sizing: border-box;
 }
 
 @media screen and (min-width: 768px) {
