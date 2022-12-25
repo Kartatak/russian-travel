@@ -1,18 +1,16 @@
 .place__image {
   grid-column: 1;
-  grid-row: 5;
+  grid-row: 3;
   object-fit: contain;
   width: 100vw;
   max-width: 460px;
   position: relative;
   left: -16px;
-  margin-top: 32px;
 }
 @media screen and (min-width: 768px) {
   .place__image {
     width: 100%;
     left: 0;
-    grid-row: 3;
-    margin-top: 0;
+    grid-row: 2;
   }
 }
