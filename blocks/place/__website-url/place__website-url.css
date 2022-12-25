@@ -9,10 +9,6 @@
   margin: 0 0 12px;
 }
 
-.place__website-url:hover {
-  text-decoration: underline;
-}
-
 @media screen and (min-width: 1024px) {
   .place__website-url {
     line-height: 170%;

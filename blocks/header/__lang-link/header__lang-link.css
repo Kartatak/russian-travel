@@ -8,8 +8,7 @@
   margin: 14px 0 0 18px;
   text-decoration: none;
 }
-
-.header__lang-link:hover {
+.header__lang-link:active {
   text-decoration: underline;
 }
 

@@ -10,6 +10,12 @@
   z-index: 2;
 }
 
-.cover__overlay:hover::before {
-  opacity: 0.3;
+.cover__overlay:hover {
+  opacity: 0.8;
+}
+
+@media screen and (min-width: 1280px) {
+  .cover__overlay {
+    max-width: 1232px;
+  }
 }

@@ -10,8 +10,6 @@
 @media screen and (min-width: 768px) {
   .footer__copyright {
     margin: 0;
-    position: absolute;
-    right: 0;
-    bottom: 0;
+    justify-self: end;
   }
 }
