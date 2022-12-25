@@ -6,7 +6,7 @@
   letter-spacing: 2px;
   color: #aaaaaa;
   text-decoration: none;
-  margin: 0;
+  margin-bottom: 12px;
 }
 
 .place__website-url:hover {
