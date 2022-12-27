@@ -20,8 +20,7 @@
 }
 @media screen and (min-width: 1280px) {
   .place {
-    margin-top: 92px;
     column-gap: 40px;
-    grid-template-columns: 480px auto;
+    grid-template-columns: 460px auto;
   }
 }
