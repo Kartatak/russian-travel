@@ -1,19 +1,22 @@
 .page {
   background-color: #2a2c2f;
   font-family: "Inter";
-  padding: 16px 16px 0 16px;
-  max-width: 1280px;
+  margin: 16px 16px 0 16px;
+  max-width: calc(1280px - 96px);
+  width: calc(100vw - 32px);
   box-sizing: border-box;
 }
 
 @media screen and (min-width: 768px) {
   .page {
-    padding: 28px 24px 0 24px;
+    margin: 28px 24px 0 24px;
+    width: calc(100vw - 48px);
   }
 }
 
 @media screen and (min-width: 1024px) {
   .page {
-    padding: 28px 48px 0 48px;
+    margin: 28px 48px 0 48px;
+    width: calc(100vw - 96px);
   }
 }
