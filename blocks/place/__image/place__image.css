@@ -2,7 +2,6 @@
   grid-column: 1;
   grid-row: 3;
   object-fit: contain;
-  width: 100vw;
   max-width: 460px;
   width: calc(100vw - 32px);
   margin-top: 32px;
@@ -12,15 +11,5 @@
     grid-row: 2;
     width: 100%;
     margin-top: 0;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .place__image {
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .place__image {
   }
 }
