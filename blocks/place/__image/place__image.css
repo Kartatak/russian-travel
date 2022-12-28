@@ -3,7 +3,7 @@
   grid-row: 3;
   object-fit: contain;
   max-width: 460px;
-  width: calc(100vw - 32px);
+  width: calc(100% + 16px * 2);
   margin-top: 32px;
 }
 @media screen and (min-width: 768px) {
