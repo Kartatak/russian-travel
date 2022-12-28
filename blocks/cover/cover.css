@@ -7,19 +7,17 @@
   margin-top: 66px;
   align-self: center;
   width: calc(100% + 16px * 2);
-  height: calc(min(calc(100% + 16px * 2), 1184px) / 1.6);
+  height: calc(min(100vw, 1184px) / 1.6);
 }
 @media screen and (min-width: 768px) {
   .cover {
     width: calc(100% + 24px * 2);
-    height: calc(min(calc(100% + 24px * 2), 1184px) / 1.6);
     margin-top: 90px;
   }
 }
 @media screen and (min-width: 1024px) {
   .cover {
     width: calc(100% + 48px * 2);
-    height: calc(min(calc(100% + 48px * 2), 1184px) / 1.6);
     margin-top: 92px;
   }
 }
