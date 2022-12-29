@@ -54,3 +54,5 @@
 @import url(../blocks/place/__website-url/place__website-url.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__url-link/place__url-link.css);
+@import url(../blocks/place/__text/_margin-bottom/place__text_margin-bottom.css);
+@import url(../blocks/place/__text/place__text.css);

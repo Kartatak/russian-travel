@@ -10,7 +10,7 @@
   padding-right: 32px;
 }
 
-.place__paragraph > p {
+/* .place__paragraph > p {
   margin-top: 0;
   margin-bottom: 25px;
 }
@@ -18,7 +18,7 @@
 .place__paragraph > p:last-child {
   margin-bottom: 0;
 }
-
+*/
 @media screen and (min-width: 768px) {
   .place__paragraph {
     grid-column: 2;
