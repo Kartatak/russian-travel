@@ -1,4 +1,4 @@
-.header__lang-link {
+.lang-links__lang-link {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.1;
@@ -6,12 +6,12 @@
   margin: 14px 0 0 18px;
   text-decoration: none;
 }
-.header__lang-link:active {
-  text-decoration: underline;
+.lang-links__lang-link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (min-width: 768px) {
-  .header__lang-link {
+  .lang-links__lang-link {
     margin: 18px 0 0 18px;
     font-size: 24px;
     line-height: 1.16;
