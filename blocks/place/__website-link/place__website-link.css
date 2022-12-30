@@ -5,7 +5,7 @@
   line-height: 122%;
   color: #ffffff;
   text-decoration: underline;
-  margin: 0 16px;
+  padding: 0 16px;
 }
 
 .place__website-link:hover {
@@ -14,12 +14,12 @@
 
 @media screen and (min-width: 768px) {
   .place__website-link {
-    margin: 0 24px 0 0;
+    padding: 0 24px 0 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place__website-link {
-    margin: 0 48px 0 0;
+    padding: 0 48px 0 0;
   }
 }

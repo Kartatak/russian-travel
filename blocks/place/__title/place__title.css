@@ -6,7 +6,7 @@
   font-size: 32px;
   line-height: 109%;
   color: #ffffff;
-  margin: 0 16px;
+  padding: 0 16px;
   justify-self: start;
 }
 
@@ -14,13 +14,13 @@
   .place__title {
     font-size: 42px;
     line-height: 110%;
-    margin: 0 0 0 24px;
+    padding: 0 0 0 16px;
   }
 }
 @media screen and (min-width: 1024px) {
   .place__title {
     font-size: 72px;
     line-height: 106%;
-    margin: 0 0 0 48px;
+    padding: 0 0 0 48px;
   }
 }
