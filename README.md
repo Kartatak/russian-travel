@@ -12,4 +12,4 @@
 
 Макет страницы плавно перестраивается и сжимается начиная от мобильной версии и заканчивая desktop версии. Контрольные точки: 320px, 768px, 1024px и 1280px.
 
-ссылка на GitHub Pages -> https://github.com/Kartatak/russian-travel
+ссылка на GitHub Pages -> https://kartatak.github.io/russian-travel/
