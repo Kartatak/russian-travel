@@ -55,3 +55,6 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__url-link/place__url-link.css);
 @import url(../blocks/place/__text/place__text.css);
+
+/*____________PAGE-PADDING______________*/
+@import url(../blocks/page-padding/page-padding.css);

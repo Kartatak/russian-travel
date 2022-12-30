@@ -1,0 +1,15 @@
+.page-padding {
+  margin: 0 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .page-padding {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .page-padding {
+    margin: 0 48px;
+  }
+}

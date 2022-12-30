@@ -8,7 +8,7 @@
   position: relative;
   margin-top: 66px;
   align-self: center;
-  width: calc(100% + 16px * 2);
+  width: 100%;
 }
 
 .cover::before {
@@ -28,13 +28,11 @@
 
 @media screen and (min-width: 768px) {
   .cover {
-    width: calc(100% + 24px * 2);
     margin-top: 90px;
   }
 }
 @media screen and (min-width: 1024px) {
   .cover {
-    width: calc(100% + 48px * 2);
     margin-top: 92px;
   }
 }
