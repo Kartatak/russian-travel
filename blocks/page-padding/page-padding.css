@@ -1,15 +1,19 @@
 .page-padding {
-  margin: 0 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  box-sizing: border-box;
 }
 
 @media screen and (min-width: 768px) {
   .page-padding {
-    margin: 0 24px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .page-padding {
-    margin: 0 48px;
+    padding-left: 48px;
+    padding-right: 48px;
   }
 }
