@@ -10,6 +10,10 @@
   opacity: 0.8;
 }
 
+.header__lang-link:first-child {
+  margin-left: 0;
+}
+
 @media screen and (min-width: 768px) {
   .header__lang-link {
     margin: 18px 0 0 18px;
